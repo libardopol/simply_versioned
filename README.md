@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Fix docker.yaml double-quote version bug (#7452)
