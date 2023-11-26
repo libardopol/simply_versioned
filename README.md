@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix Neural Magic links (#9144)
