@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Replace onnx2tf usage from CLI to Python (#8429)
