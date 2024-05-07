@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Reverse IoU threshold for NMS docs descriptions (#9151)
