@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update pyproject.toml and Docs (#7274)
