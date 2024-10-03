@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Compress docs images (#8124)
